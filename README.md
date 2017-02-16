@@ -16,8 +16,4 @@ Users with a SmartChain Identity are able to record text notes in the blockchain
 File Checksum Verification:
 A user can use their SmartChain Identity to record any file hash in the Radium blockchain, proving that they have access to that file at that particular time. The user can also include a title or memo, describing the file and proving the legitimacy of its contents. Once recorded, any user can check a file to see if has been recorded, and by whom.  This system allows a user to prove they are the author of a program, the existence and state of a contract, or that they had access to a particular file at a particular point in time.
 
-Radium Send:
-The SmartChain Core function which allows a user to send Radium coins to a username rather than an address.
 
-Radon Send:
-Just like regular coins, Radon can be sent to an Identity or an address. More about the Radon asset can be found below.
