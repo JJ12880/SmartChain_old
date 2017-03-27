@@ -1,6 +1,8 @@
 # SmartChain
 The SmartChain Core is the software client which allows users to read data from and interact with the Radium SmartChain.
 
+The latest release is SmartChain Mercury 
+
 Overview/Introduction:
 The SmartChain Core is the software client which allows users to read data from and interact with the SmartChain data-layer. The software client is designed to be as user friendly as possible, and includes a full Graphical User Interface (GUI) with automated setup and sync for ease of use. SmartChain Core interacts with the SmartChain data-layer via a standard RPC connection with an existing Radium wallet. The SmartChain is easy to use, has minimal setup and no specific command line or programming skills required.
 
